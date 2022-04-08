@@ -1,0 +1,164 @@
+/*CSS Code*/
+
+body {
+  background-color: #EAF6F6;
+  margin: 0;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 50px;
+}
+
+h3 {
+  color: #66BFBF;
+  text-align: center;
+  font-size: 30px;
+}
+
+hr {
+  border: 0;
+  border-top: 8px dotted grey;
+  width: 200px;
+  margin: 80px auto;
+}
+
+p {
+  line-height: 2;
+  font-size: 20px;
+}
+table {
+  text-align: center;
+  margin: 50px auto;
+  width: 50%;
+  border-collapse: collapse;
+}
+
+td {
+  line-height: 2;
+  font-size: 20px;
+  border: 1px solid;
+}
+
+th {
+  height: 70px;
+  font-size: 25px;
+  border: 1px solid;
+}
+
+tr:hover {background-color: #F76B8A;}
+
+/*First-Container*/
+.First-Container {
+  margin-bottom: 150px;
+}
+
+.My-photo {
+ height: 12%;
+ width: 12%;
+ float: left;
+ margin-left: 40px;
+ margin-right: 40px;
+}
+
+.My-name-title {
+  padding-top: 30px;
+  margin-bottom: 0;
+}
+
+.Mini-description {
+  font-style: italic;
+  margin-top: 0;
+}
+
+.URL-body {
+  text-decoration: none;
+  color: #66BFBF;
+}
+
+.URL-body:hover {
+  color: #F76B8A;
+}
+
+/*Second-Container*/
+
+.Second-Container {
+  position: relative;
+  margin-bottom: 430px;
+}
+
+.My-university {
+  width: 30%;
+  margin-left: 40px;
+  position: absolute;
+  top:80px;
+}
+
+.self-learning {
+  width: 23.5%;
+  margin-left: 40px;
+  position: absolute;
+  top:80px;
+  left: 640px;
+}
+
+.Udemy {
+  width: 28%;
+  margin-left: 40px;
+  position: absolute;
+  top:80px;
+  left:1180px;
+}
+
+#frase-1-sc {
+  position: absolute;
+  top:340px;
+  left:210px;
+}
+
+#frase-2-sc {
+  position: absolute;
+  top:340px;
+  left:830px;
+}
+
+#frase-3-sc {
+  position: absolute;
+  top:340px;
+  left:1370px;
+}
+
+/*Third-Container*/
+
+/*Fourth-Container*/
+.tr-second-table:hover {
+  background-color: #EAF6F6;
+}
+
+.td-second-table {
+  border: none;
+}
+
+.inside-table {
+  border-collapse: collapse;
+  margin: 0;
+  width: 100%;
+}
+
+/*Last-Container*/
+.Last-Container {
+  margin-top: 70px;
+  padding-top: 30px;
+  background-color: #66BFBF;
+  height: 70px;
+  text-align: center;
+}
+
+.URL-final{
+  font-size: 30px;
+  text-decoration: none;
+  color: #EAF6F6;
+  margin: 30px;
+  font-weight: bold;
+}
+.URL-final:hover{color: #F76B8A;}

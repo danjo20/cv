@@ -1,0 +1,38 @@
+body {
+  background-color: #EAF6F6;
+  margin: 0;
+  padding-bottom: 40px;
+}
+
+h3 {
+  color: #66BFBF;
+  text-align: center;
+  font-size: 30px;
+}
+
+hr {
+  border: 0;
+  border-top: 8px dotted grey;
+  width: 200px;
+  margin: 80px auto;
+}
+
+label {
+  padding-left: 40px;
+  line-height: 2;
+  font-size: 20px;
+}
+
+p {
+  line-height: 2;
+  font-size: 20px;
+  padding-left: 40px;
+}
+
+textarea {
+  margin-left: 40px;
+}
+
+.bottom{
+  margin-left: 40px;
+}

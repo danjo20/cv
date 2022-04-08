@@ -1,0 +1,106 @@
+body {
+  background-color: #EAF6F6;
+  margin: 0;
+}
+
+h3 {
+  color: #66BFBF;
+  text-align: center;
+  font-size: 35px;
+}
+
+p {
+  line-height: 2;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.First-Container {
+  position: relative;
+  margin-bottom: 1200px;
+}
+
+.Soccer {
+  width: 400px;
+  margin-left: 40px;
+  position: absolute;
+  left: 50px;
+  top:100px;
+}
+
+.Swimming {
+  width: 400px;
+  margin-left: 40px;
+  position: absolute;
+  top:100px;
+  left: 642px;
+}
+
+.Programming {
+  width: 400px;
+  margin-left: 40px;
+  position: absolute;
+  top:100px;
+  left:1230px;
+}
+
+.Reading {
+  width: 400px;
+  margin-left: 40px;
+  position: absolute;
+  top:550px;
+  left: 50px;
+}
+
+.Math {
+  width: 445px;
+  margin-left: 40px;
+  position: absolute;
+  top:550px;
+  left: 610px;
+}
+
+.Cycling {
+  width: 26%;
+  margin-left: 40px;
+  position: absolute;
+  top:550px;
+  left:1180px;
+}
+
+
+#hobby-1 {
+  position: absolute;
+  top:370px;
+  left:240px;
+}
+
+#hobby-2 {
+  position: absolute;
+  top:370px;
+  left:830px;
+}
+
+#hobby-3 {
+  position: absolute;
+  top:370px;
+  left:1400px;
+}
+
+#hobby-4 {
+  position: absolute;
+  top:820px;
+  left:240px;
+}
+
+#hobby-5 {
+  position: absolute;
+  top:820px;
+  left:830px;
+}
+
+#hobby-6 {
+  position: absolute;
+  top:820px;
+  left:1430px;
+}
